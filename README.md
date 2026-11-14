@@ -24,9 +24,9 @@ Der Datensatz ist nicht im Repository enthalten. Zum Ausführen `immo_data.csv` 
 
 | Modell | MAE (€) | R² |
 |---|---|---|
-| Naiv (Durchschnitt) | XXX | 0,00 |
-| Lineare Regression | XXX | X,XX |
-| Random Forest | XXX | X,XX |
+| Naiv (Durchschnitt) | 247.20 | 0,00 |
+| Lineare Regression | 106.06 | 0.81 |
+| Random Forest | 82.15 | 0.86 |
 
 ## Ausführen
 
